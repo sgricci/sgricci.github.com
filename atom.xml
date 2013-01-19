@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Steve Gricci]]></title>
-  <link href="http://gricci.com/atom.xml" rel="self"/>
-  <link href="http://gricci.com/"/>
-  <updated>2013-01-19T09:34:05-07:00</updated>
-  <id>http://gricci.com/</id>
+  <link href="http://sgricci.github.com/atom.xml" rel="self"/>
+  <link href="http://sgricci.github.com/"/>
+  <updated>2013-01-19T09:42:10-07:00</updated>
+  <id>http://sgricci.github.com/</id>
   <author>
     <name><![CDATA[Steve Gricci]]></name>
     
@@ -14,19 +14,10 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Buying (into)_a_startup]]></title>
-    <link href="http://gricci.com/blog/2013/01/06/buying-a-startup/"/>
-    <updated>2013-01-06T22:26:00-07:00</updated>
-    <id>http://gricci.com/blog/2013/01/06/buying-a-startup</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
     <title type="html"><![CDATA[test]]></title>
-    <link href="http://gricci.com/blog/2013/01/06/test/"/>
+    <link href="http://sgricci.github.com/blog/2013/01/06/test/"/>
     <updated>2013-01-06T22:12:00-07:00</updated>
-    <id>http://gricci.com/blog/2013/01/06/test</id>
+    <id>http://sgricci.github.com/blog/2013/01/06/test</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>

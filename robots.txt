@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://gricci.com/sitemap.xml 
+Sitemap: http://sgricci.github.com/sitemap.xml 

@@ -1,23 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://gricci.com/blog/2013/01/06/test/</loc>
+        <loc>http://sgricci.github.com/blog/2013/01/06/test/</loc>
         <lastmod>2013-01-19T09:30:41-07:00</lastmod>
     </url>
     <url>
-        <loc>http://gricci.com/blog/2013/01/06/buying-a-startup/</loc>
-        <lastmod>2013-01-19T09:30:41-07:00</lastmod>
-    </url>
-    <url>
-        <loc>http://gricci.com/robots.txt</loc>
+        <loc>http://sgricci.github.com/robots.txt</loc>
         <lastmod>2013-01-06T22:11:07-07:00</lastmod>
     </url>
     <url>
-        <loc>http://gricci.com/</loc>
+        <loc>http://sgricci.github.com/</loc>
         <lastmod>2013-01-19T09:30:41-07:00</lastmod>
     </url>
     <url>
-        <loc>http://gricci.com/blog/archives/</loc>
+        <loc>http://sgricci.github.com/blog/archives/</loc>
         <lastmod>2013-01-19T09:30:41-07:00</lastmod>
     </url>
 </urlset>
