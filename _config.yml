@@ -4,7 +4,7 @@
 
 url: http://sgricci.github.com
 title: Steve Gricci
-subtitle: Father. Coder. Geek.
+subtitle: SG
 author: Steve Gricci
 simple_search: http://google.com/search
 description:
@@ -68,7 +68,7 @@ twitter_user: sgricci
 twitter_tweet_count: 4
 twitter_show_replies: false
 twitter_follow_button: true
-twitter_show_follower_count: false
+twitter_show_follower_count: true
 twitter_tweet_button: true
 
 # Google +1
@@ -93,7 +93,7 @@ disqus_short_name:
 disqus_show_comment_count: false
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-776018-3
 
 # Facebook Like
-facebook_like: false
+facebook_like: true
