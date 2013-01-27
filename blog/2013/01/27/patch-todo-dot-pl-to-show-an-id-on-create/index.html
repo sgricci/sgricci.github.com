@@ -3,11 +3,11 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>Blog Archives - Steve Gricci</title>
+	<title>Patch todo.pl to show an ID on create - Steve Gricci</title>
 	<meta name="author" content="Steve Gricci">
 
 	
-	<meta name="description" content=" 2013 Patch todo.pl to show an ID on create Jan 27 perl, software, todos Recent reads Jan 26 reading WFH Pro Tip: Set a timer Jan 19 timer, tips, wfh ">
+	<meta name="description" content="I&#8217;m a command line junkie. I spend most of the day in command-line based tools (vim, git, mysql, etc.). I rarely ever use anything with a gui &hellip;">
 	
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
@@ -89,64 +89,63 @@
 </script>
 
 	
-	<div id="content" class="inner">
-	
+	<div id="content" class="inner"><article class="post">
+	<h2 class="title">Patch todo.pl to Show an ID on Create</h2>
+	<div class="entry-content"><p>I&#8217;m a command line junkie.  I spend most of the day in command-line based tools (vim, git, mysql, etc.).  I rarely ever use anything with a gui besides a browser.</p>
+
+<p>I love using <a href="http://sprint.ly">sprint.ly</a>, it&#8217;s an awesome tool for agile development. Sadly it doesn&#8217;t have a command line tool, and no one has created one yet.  When I&#8217;m hacking away on a personal project and I want to keep a rolling todo list, I use todo.pl (which uses the <a href="http://www.hiveminder.com">hiveminder</a> API for a backend.)  Sadly, the default todo.pl script (which can be installed via CPAN btw) is pretty terse.  I add a task, and I want to immediately perform some additional task to it, such as adding tags, etc. So I&#8217;ve patched my todo.pl to display the task ID after adding it, here&#8217;s what I changed.</p>
+
+<p>Open todo.pl (you can find it using <code>whereis todo.pl</code>) and locate the response_ok line for the sub <code>add_task</code> (line 357 on mine), change that line to this:</p>
+
+<pre><code>     result_ok($result, "Created task: #".$result-&gt;{_content}-&gt;{record_locator});
+</code></pre>
+
+<p><em>Note: You&#8217;ll need root to edit this file if it&#8217;s installed globally</em></p>
+
+<p>Now, it&#8217;ll respond with <code>Created Task: #XXXX</code>, much more useful for me.</p>
+
+<p>&#8211;s</p>
+</div>
 
 
-	
-	
-	<section class="archives"><h1 class="year">2013</h1>
+<div class="meta">
+	<div class="date">
 
-<article>
-	<h2 class="title"><a href="/blog/2013/01/27/patch-todo-dot-pl-to-show-an-id-on-create/">Patch todo.pl to show an ID on create</a></h2>
-	<div class="meta">
-		<span class="date">Jan 27</span>
-		<span class="tags">
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-01-27T09:23:00-07:00" pubdate data-updated="true">Jan 27<span>th</span>, 2013</time></div>
+	<div class="tags">
 
 
 	<a class='category' href='/blog/categories/perl/'>perl</a>, <a class='category' href='/blog/categories/software/'>software</a>, <a class='category' href='/blog/categories/todos/'>todos</a>
 
 
-</span>
-	    
-	</div>
-</article>
-
+</div>
 	
+</div></article>
 
-
-<article>
-	<h2 class="title"><a href="/blog/2013/01/26/recent-reads/">Recent reads</a></h2>
-	<div class="meta">
-		<span class="date">Jan 26</span>
-		<span class="tags">
-
-
-	<a class='category' href='/blog/categories/reading/'>reading</a>
-
-
-</span>
-	    
-	</div>
-</article>
-
+	<div class="share">
+	<div class="addthis_toolbox addthis_default_style ">
 	
-
-
-<article>
-	<h2 class="title"><a href="/blog/2013/01/19/wfh-pro-tip-set-a-timer/">WFH Pro Tip: Set a timer</a></h2>
-	<div class="meta">
-		<span class="date">Jan 19</span>
-		<span class="tags">
-
-
-	<a class='category' href='/blog/categories/timer/'>timer</a>, <a class='category' href='/blog/categories/tips/'>tips</a>, <a class='category' href='/blog/categories/wfh/'>wfh</a>
-
-
-</span>
-	    
+	<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+	
+	
+	<a class="addthis_button_tweet"></a>
+	
+	
+	<a class="addthis_counter addthis_pill_style"></a>
 	</div>
-</article>
+</div>
+
+
 </div>
 	<footer id="footer" class="inner">Copyright &copy; 2013
 
