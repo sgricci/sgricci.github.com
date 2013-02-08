@@ -4,7 +4,7 @@
   <title><![CDATA[Steve Gricci]]></title>
   <link href="http://sgricci.github.com/atom.xml" rel="self"/>
   <link href="http://sgricci.github.com/"/>
-  <updated>2013-02-07T11:17:56-07:00</updated>
+  <updated>2013-02-08T10:14:48-07:00</updated>
   <id>http://sgricci.github.com/</id>
   <author>
     <name><![CDATA[Steve Gricci]]></name>
@@ -125,6 +125,27 @@ all began, as it&#8217;s generically described in the books.</p>
 <p>By the way, the non-Kindle Fire Kindles don&#8217;t have e-mail. That&#8217;s a feature. Disconnect <strong>more</strong>, it&#8217;s good for you.</p>
 
 <p>-s</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Mac OS X: Change Your Hostname]]></title>
+    <link href="http://sgricci.github.com/blog/2011/09/13/mac-os-x-change-your-hostname/"/>
+    <updated>2011-09-13T10:07:00-06:00</updated>
+    <id>http://sgricci.github.com/blog/2011/09/13/mac-os-x-change-your-hostname</id>
+    <content type="html"><![CDATA[<p>Here are two ways to change your hostname in Mac OS X.</p>
+
+<p>The first, open a new terminal and type this:</p>
+
+<pre><code>    sudo hostname &lt;new hostname&gt;
+</code></pre>
+
+<p><em>Note: You will be asked for your password, because you are performing
+this command as root</em></p>
+
+<p>The second, go to System Preferences -> Sharing -> Computer Name.</p>
+
+<p>The first option will be more immediate.</p>
 ]]></content>
   </entry>
   
