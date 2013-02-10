@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: gaming | Steve Gricci]]></title>
+  <link href="http://sgricci.github.com/blog/categories/gaming/atom.xml" rel="self"/>
+  <link href="http://sgricci.github.com/"/>
+  <updated>2013-02-10T11:03:51-07:00</updated>
+  <id>http://sgricci.github.com/</id>
+  <author>
+    <name><![CDATA[Steve Gricci]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Now Open Source: Dysnomia]]></title>
+    <link href="http://sgricci.github.com/blog/2013/02/10/now-open-source-dysnomia/"/>
+    <updated>2013-02-10T10:58:00-07:00</updated>
+    <id>http://sgricci.github.com/blog/2013/02/10/now-open-source-dysnomia</id>
+    <content type="html"><![CDATA[<p>I start new projects all the time.  Generally, they are for no reason other than the fun of it.</p>
+
+<p>I also try to hold myself to open sourcing them if I'm not planning on using them in the future.  They are great code samples, and interest can always bring you back to that project.</p>
+
+<p>One of these projects, Dysnomia, is a 3d Voxel (Volumetric Pixel) editor, that I made.  It's not very polished, but it does a decent job of what it's supposed to do.  It's built in Java, with LWJGL (OpenGL), and implements concepts such as 3d Picking (Color Picking) and "planes" (i.e. A GUI / HUD plane vs 3d Space).</p>
+
+<p>If you are interested, it's now available over at my <a href="http://github.com/sgricci/dysnomia">GitHub</a>.</p>
+
+<p>If you have any questions or need some help getting it running, let me know on twitter: <a href="http://twitter.com/sgricci">@sgricci</a></p>
+]]></content>
+  </entry>
+  
+</feed>
