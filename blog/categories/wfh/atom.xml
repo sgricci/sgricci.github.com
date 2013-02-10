@@ -4,7 +4,7 @@
   <title><![CDATA[Category: wfh | Steve Gricci]]></title>
   <link href="http://sgricci.github.com/blog/categories/wfh/atom.xml" rel="self"/>
   <link href="http://sgricci.github.com/"/>
-  <updated>2013-02-08T10:14:48-07:00</updated>
+  <updated>2013-02-08T10:40:45-07:00</updated>
   <id>http://sgricci.github.com/</id>
   <author>
     <name><![CDATA[Steve Gricci]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Dont be a seat warmer]]></title>
+    <link href="http://sgricci.github.com/blog/2013/01/19/dont-be-a-seat-warmer/"/>
+    <updated>2013-01-19T10:13:00-07:00</updated>
+    <id>http://sgricci.github.com/blog/2013/01/19/dont-be-a-seat-warmer</id>
+    <content type="html"><![CDATA[<p>I've been a <strong><em>telecommuting</em></strong> (i.e.: working from home) software developer since 2011.</p>
+
+<p>It's hard to get out of the mind-set of an office environment where you are a seat warmer for ~8 hours per day.</p>
+
+<p>Software Developers aren't hourly employees.  You may be paid like an hourly employee (more likely salary). But, more than likely, you are asked to go above and beyond a typical 40 hours per week, whether it's doing a deploy or help with a DevOps operation at midnight.</p>
+
+<p>It's important to realize that when working from home, it's not the hours you put in that your employer receives, it's your <strong>work</strong>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[WFH Pro Tip: Set a timer]]></title>

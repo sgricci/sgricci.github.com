@@ -4,7 +4,7 @@
   <title><![CDATA[Steve Gricci]]></title>
   <link href="http://sgricci.github.com/atom.xml" rel="self"/>
   <link href="http://sgricci.github.com/"/>
-  <updated>2013-02-08T10:14:48-07:00</updated>
+  <updated>2013-02-08T10:40:45-07:00</updated>
   <id>http://sgricci.github.com/</id>
   <author>
     <name><![CDATA[Steve Gricci]]></name>
@@ -110,6 +110,21 @@ all began, as it&#8217;s generically described in the books.</p>
   </entry>
   
   <entry>
+    <title type="html"><![CDATA[Dont be a seat warmer]]></title>
+    <link href="http://sgricci.github.com/blog/2013/01/19/dont-be-a-seat-warmer/"/>
+    <updated>2013-01-19T10:13:00-07:00</updated>
+    <id>http://sgricci.github.com/blog/2013/01/19/dont-be-a-seat-warmer</id>
+    <content type="html"><![CDATA[<p>I&#8217;ve been a <strong><em>telecommuting</em></strong> (i.e.: working from home) software developer since 2011.</p>
+
+<p>It&#8217;s hard to get out of the mind-set of an office environment where you are a seat warmer for ~8 hours per day.</p>
+
+<p>Software Developers aren&#8217;t hourly employees.  You may be paid like an hourly employee (more likely salary). But, more than likely, you are asked to go above and beyond a typical 40 hours per week, whether it&#8217;s doing a deploy or help with a DevOps operation at midnight.</p>
+
+<p>It&#8217;s important to realize that when working from home, it&#8217;s not the hours you put in that your employer receives, it&#8217;s your <strong>work</strong>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[WFH Pro Tip: Set a timer]]></title>
     <link href="http://sgricci.github.com/blog/2013/01/19/wfh-pro-tip-set-a-timer/"/>
     <updated>2013-01-19T09:44:00-07:00</updated>
@@ -146,6 +161,37 @@ this command as root</em></p>
 <p>The second, go to System Preferences -> Sharing -> Computer Name.</p>
 
 <p>The first option will be more immediate.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Useful Unix Commands: fc]]></title>
+    <link href="http://sgricci.github.com/blog/2011/03/03/useful-unix-commands-fc/"/>
+    <updated>2011-03-03T10:39:00-07:00</updated>
+    <id>http://sgricci.github.com/blog/2011/03/03/useful-unix-commands-fc</id>
+    <content type="html"><![CDATA[<p>Slowly becoming my favorite, my Useful Unix Command of the moment is: <a href="http://en.wikipedia.org/wiki/Fc_%28Unix%29">fc</a></p>
+
+<p>fc allows you to open the last run command in an editor.  By default, it will open with the editor set up in $EDITOR (vim for me).</p>
+
+<p>If you have ever had to type a really long command out, and missed something, or wanted to run it for several more files, fc is very useful as it opens in Vim ($EDITOR) and then, upon closing, will run the command again.</p>
+
+<p>This command works on most Linux systems, Unix systems and on Mac OS X.  Give it a try.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[MacVim Tip: Configure MacVim to start without the top toolbar expanded]]></title>
+    <link href="http://sgricci.github.com/blog/2011/02/28/macvim-tip-configure-macvim-to-start-without-the-top-toolbar-expanded/"/>
+    <updated>2011-02-28T10:36:00-07:00</updated>
+    <id>http://sgricci.github.com/blog/2011/02/28/macvim-tip-configure-macvim-to-start-without-the-top-toolbar-expanded</id>
+    <content type="html"><![CDATA[<p>I figured I&#8217;d share this one:</p>
+
+<p>To remove the MacVim top toolbar, set this in your .vimrc file:</p>
+
+<pre><code>    set guioptions-=T
+</code></pre>
+
+<p>And never have to close that toolbar again.</p>
 ]]></content>
   </entry>
   
