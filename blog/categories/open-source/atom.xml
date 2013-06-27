@@ -4,14 +4,30 @@
   <title><![CDATA[Category: open source | Steve Gricci]]></title>
   <link href="http://sgricci.github.com/blog/categories/open-source/atom.xml" rel="self"/>
   <link href="http://sgricci.github.com/"/>
-  <updated>2013-03-24T13:59:20-06:00</updated>
+  <updated>2013-06-27T09:31:42-06:00</updated>
   <id>http://sgricci.github.com/</id>
   <author>
     <name><![CDATA[Steve Gricci]]></name>
     
   </author>
-  <generator uri="http://octopress.org/">Octopress</generator>
+  <generator uri="http://ryandeussing.com/">Ryan Deussing</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Now Open Source: Dewdrop]]></title>
+    <link href="http://sgricci.github.com/blog/2013/06/27/now-open-source-dewdrop/"/>
+    <updated>2013-06-27T09:15:00-06:00</updated>
+    <id>http://sgricci.github.com/blog/2013/06/27/now-open-source-dewdrop</id>
+    <content type="html"><![CDATA[<p>I recently open sourced the Linux <a href="https://droplr.com/join/VWrQ8aUQ">Droplr (referral link)</a>.</p>
+
+<p>It's Python and GTK. I've licensed it under GPLv2.</p>
+
+<p>Since the Droplr API is restricted, you'll have to get your own API keys from the guys
+over at Droplr. You can find more information
+<a href="http://help.droplr.com/customer/portal/articles/1014091-introduction">here</a>.
+Droplr has assured me that they would try hook up anyone requesting API credentials ASAP.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Now Open Source: Dysnomia]]></title>

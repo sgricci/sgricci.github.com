@@ -4,37 +4,45 @@
         <loc>
             http://sgricci.github.com/blog/2011/02/28/macvim-tip-configure-macvim-to-start-without-the-top-toolbar-expanded/
         </loc>
-        <lastmod>2013-02-08T10:38:38-07:00</lastmod>
+        <lastmod>2013-06-27T09:31:42-06:00</lastmod>
     </url>
     <url>
         <loc>http://sgricci.github.com/blog/2011/03/03/useful-unix-commands-fc/</loc>
-        <lastmod>2013-02-08T10:40:44-07:00</lastmod>
+        <lastmod>2013-06-27T09:31:42-06:00</lastmod>
+    </url>
+    <url>
+        <loc>http://sgricci.github.com/blog/2011/06/01/this-is-a-test/</loc>
+        <lastmod>2013-06-27T09:31:42-06:00</lastmod>
     </url>
     <url>
         <loc>http://sgricci.github.com/blog/2011/09/13/mac-os-x-change-your-hostname/</loc>
-        <lastmod>2013-02-08T10:13:24-07:00</lastmod>
+        <lastmod>2013-06-27T09:31:42-06:00</lastmod>
     </url>
     <url>
         <loc>http://sgricci.github.com/blog/2013/01/19/wfh-pro-tip-set-a-timer/</loc>
-        <lastmod>2013-02-07T11:17:01-07:00</lastmod>
+        <lastmod>2013-06-27T09:31:42-06:00</lastmod>
     </url>
     <url>
         <loc>http://sgricci.github.com/blog/2013/01/26/recent-reads/</loc>
-        <lastmod>2013-02-07T11:17:01-07:00</lastmod>
+        <lastmod>2013-06-27T09:31:42-06:00</lastmod>
     </url>
     <url>
         <loc>
             http://sgricci.github.com/blog/2013/01/27/patch-todo-dot-pl-to-show-an-id-on-create/
         </loc>
-        <lastmod>2013-02-07T11:17:01-07:00</lastmod>
+        <lastmod>2013-06-27T09:31:42-06:00</lastmod>
     </url>
     <url>
         <loc>http://sgricci.github.com/blog/2013/02/10/now-open-source-dysnomia/</loc>
-        <lastmod>2013-02-10T11:03:35-07:00</lastmod>
+        <lastmod>2013-06-27T09:31:42-06:00</lastmod>
     </url>
     <url>
         <loc>http://sgricci.github.com/blog/2013/03/24/my-experience-with-daskeyboard/</loc>
-        <lastmod>2013-03-24T13:59:20-06:00</lastmod>
+        <lastmod>2013-06-27T09:31:42-06:00</lastmod>
+    </url>
+    <url>
+        <loc>http://sgricci.github.com/blog/2013/06/27/now-open-source-dewdrop/</loc>
+        <lastmod>2013-06-27T09:31:42-06:00</lastmod>
     </url>
     <url>
         <loc>http://sgricci.github.com/robots.txt</loc>
@@ -42,18 +50,22 @@
     </url>
     <url>
         <loc>http://sgricci.github.com/</loc>
-        <lastmod>2013-03-24T13:59:20-06:00</lastmod>
+        <lastmod>2013-06-27T09:31:42-06:00</lastmod>
+    </url>
+    <url>
+        <loc>http://sgricci.github.com/projects/</loc>
+        <lastmod>2013-06-27T09:31:25-06:00</lastmod>
     </url>
     <url>
         <loc>http://sgricci.github.com/blog/archives/</loc>
-        <lastmod>2013-03-24T13:59:20-06:00</lastmod>
+        <lastmod>2013-06-27T09:31:25-06:00</lastmod>
     </url>
     <url>
         <loc>http://sgricci.github.com/404.html</loc>
-        <lastmod>2013-02-07T11:17:01-07:00</lastmod>
+        <lastmod>2013-06-27T09:31:25-06:00</lastmod>
     </url>
     <url>
         <loc>http://sgricci.github.com/archives/</loc>
-        <lastmod>2013-03-24T13:59:20-06:00</lastmod>
+        <lastmod>2013-06-27T09:31:25-06:00</lastmod>
     </url>
 </urlset>
