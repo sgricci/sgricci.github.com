@@ -22,14 +22,6 @@
         </aside>    
   	</div>
     
-    {% unless page.url contains '/blog/' %}
-
-    <header class="twelve columns" role="banner">
-    {% include header.html %}
-    </header>
-
-    {% endunless %}
-
   	<div id="main" class="twelve columns">
 	    <div id="content">
 	      {{ content | expand_urls: root_url }}
