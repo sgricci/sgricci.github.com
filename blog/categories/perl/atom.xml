@@ -4,7 +4,7 @@
   <title><![CDATA[Category: perl | Steve Gricci]]></title>
   <link href="http://sgricci.github.com/blog/categories/perl/atom.xml" rel="self"/>
   <link href="http://sgricci.github.com/"/>
-  <updated>2013-06-27T09:31:42-06:00</updated>
+  <updated>2013-06-27T09:36:48-06:00</updated>
   <id>http://sgricci.github.com/</id>
   <author>
     <name><![CDATA[Steve Gricci]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Patch todo.pl to show an ID on create]]></title>
-    <link href="http://sgricci.github.com/blog/2013/01/27/patch-todo-dot-pl-to-show-an-id-on-create/"/>
+    <link href="http://sgricci.github.com/2013/01/27/patch-todo-dot-pl-to-show-an-id-on-create/"/>
     <updated>2013-01-27T09:23:00-07:00</updated>
-    <id>http://sgricci.github.com/blog/2013/01/27/patch-todo-dot-pl-to-show-an-id-on-create</id>
+    <id>http://sgricci.github.com/2013/01/27/patch-todo-dot-pl-to-show-an-id-on-create</id>
     <content type="html"><![CDATA[<p>I'm a command line junkie.  I spend most of the day in command-line based tools (vim, git, mysql, etc.).  I rarely ever use anything with a gui besides a browser.</p>
 
 <p>I love using <a href="http://sprint.ly">sprint.ly</a>, it's an awesome tool for agile development. Sadly it doesn't have a command line tool, and no one has created one yet.  When I'm hacking away on a personal project and I want to keep a rolling todo list, I use todo.pl (which uses the <a href="http://www.hiveminder.com">hiveminder</a> API for a backend.)  Sadly, the default todo.pl script (which can be installed via CPAN btw) is pretty terse.  I add a task, and I want to immediately perform some additional task to it, such as adding tags, etc. So I've patched my todo.pl to display the task ID after adding it, here's what I changed.</p>

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: java | Steve Gricci]]></title>
   <link href="http://sgricci.github.com/blog/categories/java/atom.xml" rel="self"/>
   <link href="http://sgricci.github.com/"/>
-  <updated>2013-06-27T09:31:42-06:00</updated>
+  <updated>2013-06-27T09:36:48-06:00</updated>
   <id>http://sgricci.github.com/</id>
   <author>
     <name><![CDATA[Steve Gricci]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Now Open Source: Dysnomia]]></title>
-    <link href="http://sgricci.github.com/blog/2013/02/10/now-open-source-dysnomia/"/>
+    <link href="http://sgricci.github.com/2013/02/10/now-open-source-dysnomia/"/>
     <updated>2013-02-10T10:58:00-07:00</updated>
-    <id>http://sgricci.github.com/blog/2013/02/10/now-open-source-dysnomia</id>
+    <id>http://sgricci.github.com/2013/02/10/now-open-source-dysnomia</id>
     <content type="html"><![CDATA[<p>I start new projects all the time.  Generally, they are for no reason other than the fun of it.</p>
 
 <p>I also try to hold myself to open sourcing them if I'm not planning on using them in the future.  They are great code samples, and interest can always bring you back to that project.</p>
