@@ -13,3 +13,5 @@ Since the Droplr API is restricted, you'll have to get your own API keys from th
 over at Droplr. You can find more information 
 [here](http://help.droplr.com/customer/portal/articles/1014091-introduction). 
 Droplr has assured me that they would try hook up anyone requesting API credentials ASAP.
+
+You can find the code on [github](http://github.com/sgricci/dewdrop).
