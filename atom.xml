@@ -4,7 +4,7 @@
   <title><![CDATA[Steve Gricci]]></title>
   <link href="http://sgricci.github.com/atom.xml" rel="self"/>
   <link href="http://sgricci.github.com/"/>
-  <updated>2013-07-06T22:04:17-06:00</updated>
+  <updated>2013-07-07T23:00:10-06:00</updated>
   <id>http://sgricci.github.com/</id>
   <author>
     <name><![CDATA[Steve Gricci]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[New dewdrop icon]]></title>
+    <link href="http://sgricci.github.com/2013/07/07/new-dewdrop-icon/"/>
+    <updated>2013-07-07T22:54:00-06:00</updated>
+    <id>http://sgricci.github.com/2013/07/07/new-dewdrop-icon</id>
+    <content type="html"><![CDATA[<p>Here&#8217;s a preview of the new dewdrop icon.</p>
+
+<center>
+<img src="http://sgricci.github.com/images/dewdrop_256.png" alt="Dewdrop 256" />
+</center>
+
+
+<p>This icon is in the latest unstable branch on github and will be in the next release.</p>
+
+<p>If you have any thoughts, I&#8217;d love to hear them. You can email me at steve@<this domain>.com or <a href="http://twitter.com/sgricci">@sgricci</a> on twitter.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Now Open Source: Dewdrop]]></title>
