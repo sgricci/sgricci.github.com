@@ -4,7 +4,7 @@
   <title><![CDATA[Gricci]]></title>
   <link href="http://sgricci.github.com/atom.xml" rel="self"/>
   <link href="http://sgricci.github.com/"/>
-  <updated>2013-10-01T10:26:22-06:00</updated>
+  <updated>2013-10-01T10:29:52-06:00</updated>
   <id>http://sgricci.github.com/</id>
   <author>
     <name><![CDATA[Steve Gricci]]></name>
@@ -12,15 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Protip: Lowercase incoming usernames/emails when developing an authentication system]]></title>
-    <link href="http://sgricci.github.com/2013/07/15/protip-lowercase-incoming-usernames-slash-emails-when-developing-an-authentication-system/"/>
-    <updated>2013-07-15T15:52:00-06:00</updated>
-    <id>http://sgricci.github.com/2013/07/15/protip-lowercase-incoming-usernames-slash-emails-when-developing-an-authentication-system</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[New dewdrop icon]]></title>
