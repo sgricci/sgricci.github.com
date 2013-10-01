@@ -4,7 +4,7 @@
   <title><![CDATA[Category: dewdrop | Gricci]]></title>
   <link href="http://sgricci.github.com/blog/categories/dewdrop/atom.xml" rel="self"/>
   <link href="http://sgricci.github.com/"/>
-  <updated>2013-10-01T10:38:04-06:00</updated>
+  <updated>2013-10-01T13:22:24-06:00</updated>
   <id>http://sgricci.github.com/</id>
   <author>
     <name><![CDATA[Steve Gricci]]></name>
@@ -12,6 +12,38 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Dewdrop v0.9 now available]]></title>
+    <link href="http://sgricci.github.com/2013/07/06/dewdrop-v0-dot-9-now-available/"/>
+    <updated>2013-07-06T13:01:00-06:00</updated>
+    <id>http://sgricci.github.com/2013/07/06/dewdrop-v0-dot-9-now-available</id>
+    <content type="html"><![CDATA[<p>Dewdrop (v0.9), the <a href="https://droplr.com/join/uOXTW96Q">Droplr</a> client for Linux,
+is now available for download. It can be downloaded here:
+<a href="http://d.pr/f/k2fG">d.pr/f/k2fG</a></p>
+
+<p>This release brings us very close to my vision of a feature complete version 1.0
+release.</p>
+
+<p>In this version, a new Note Window has been added (much like the official Droplr
+(Mac) client), which will allow you to paste in text to upload to droplr, with
+selections for type (Markdown, etc).</p>
+
+<p>Also in this version, a new drop target. This allows you to upload files via
+drag and drop.</p>
+
+<p>The vast majority of these changes are only here because Dewdrop is also
+now open source:
+<a href="http://github.com/sgricci/dewdrop">http://github.com/sgricci/dewdrop</a>
+(<a href="http://gricci.com/2013/06/27/now-open-source-dewdrop/">more info</a>)</p>
+
+<p>Thanks to <a href="https://github.com/adamgalloway-nrg">adamgalloway-nrg</a> for putting in
+some great new features and making this release possible.</p>
+
+<p>And please report any bugs and/or feature requests on
+<a href="https://github.com/sgricci/dewdrop/issues">the official github repo</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Now Open Source: Dewdrop]]></title>
@@ -28,6 +60,52 @@ over at Droplr. You can find more information
 Droplr has assured me that they would try hook up anyone requesting API credentials ASAP.</p>
 
 <p>You can find the code on <a href="http://github.com/sgricci/dewdrop">github</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Dewdrop v0.2 now available: Files!]]></title>
+    <link href="http://sgricci.github.com/2013/02/08/dewdrop-v0-dot-2-now-available-files/"/>
+    <updated>2013-02-08T13:02:00-07:00</updated>
+    <id>http://sgricci.github.com/2013/02/08/dewdrop-v0-dot-2-now-available-files</id>
+    <content type="html"><![CDATA[<p>Dewdrop (v0.2), the <a href="https://droplr.com/join/uOXTW96Q">Droplr</a> client for Linux,
+is now available for download. It can be downloaded here: <a href="http://d.pr/f/qlTo">d.pr/f/qlTo</a></p>
+
+<p>New in this release: Files! You can now upload files by right clicking on the
+system tray icon, and then clicking 'Upload File...'.</p>
+
+<p>We now also check to see if a new update is available, and notify you when it is.</p>
+
+<p>There have also been a few bug fixes, changes are as follows:</p>
+
+<ul>
+<li>New Menu Item: Upload file (Opens file chooser dialog and uploads to droplr)</li>
+<li>Added window icon (for task bar)</li>
+<li>Bug: Application would stay running if you closed the login window using the
+window close button</li>
+<li>Bug: Selection window would generate warning if selection height or width = 0</li>
+<li>Update notification when new version is available</li>
+</ul>
+
+
+<p>If you have any issues with this release, feel free to contact me on twitter: <a href="http://twitter.com/sgricci">@sgricci</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Introducing Dewdrop]]></title>
+    <link href="http://sgricci.github.com/2013/02/05/introducing-dewdrop/"/>
+    <updated>2013-02-05T13:02:00-07:00</updated>
+    <id>http://sgricci.github.com/2013/02/05/introducing-dewdrop</id>
+    <content type="html"><![CDATA[<p>Dewdrop v0.1.1, <del>a</del> the <a href="https://droplr.com/join/uOXTW96Q">Droplr</a> client for Linux, is now available.</p>
+
+<p>This is the first generate release of the client.</p>
+
+<p>You can download it from: <a href="http://d.pr/f/MiW1">d.pr/f/MiW1</a></p>
+
+<p>In this release, you can login and take a screenshot (which it'll upload to droplr).</p>
+
+<p>Stay tuned for more releases soon, and feel free to follow me <a href="http://twitter.com/sgricci">@sgricci</a></p>
 ]]></content>
   </entry>
   
