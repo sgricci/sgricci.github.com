@@ -1,14 +1,12 @@
 ---
 layout: default
-title: "Learning and making and sharing"
-description: "A blog about culture, technology, and interesting things."
 ---
 
-<div id="blog-archives">
-{% for post in site.posts reverse %}
-
-<article>
-  {% include archive_post.html %}
-</article>
-{% endfor %}
-</div>
+  {% assign index = true %}
+  {% for post in paginator.posts %}
+  {% assign content = post.content %}
+    <article class="post">
+      {% include post/sharing.html %}
+      {% include article.html %}
+    </article>
+  {% endfor %}

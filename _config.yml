@@ -3,7 +3,7 @@
 # ----------------------- #
 
 url: http://sgricci.github.com
-title: Steve Gricci
+title: Gricci
 subtitle: SG
 author: Steve Gricci
 simple_search: http://google.com/search
@@ -97,4 +97,4 @@ disqus_show_comment_count: false
 google_analytics_tracking_id: UA-776018-3
 
 # Facebook Like
-facebook_like: true
+facebook_like: false
