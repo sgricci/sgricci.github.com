@@ -4,62 +4,80 @@
         <loc>
             http://sgricci.github.com/2011/02/28/macvim-tip-configure-macvim-to-start-without-the-top-toolbar-expanded/
         </loc>
-        <lastmod>2013-06-27T09:35:53-06:00</lastmod>
+        <lastmod>2013-10-01T10:26:09-06:00</lastmod>
     </url>
     <url>
         <loc>http://sgricci.github.com/2011/03/03/useful-unix-commands-fc/</loc>
-        <lastmod>2013-06-27T09:35:53-06:00</lastmod>
+        <lastmod>2013-10-01T10:26:09-06:00</lastmod>
     </url>
     <url>
         <loc>http://sgricci.github.com/2011/09/13/mac-os-x-change-your-hostname/</loc>
-        <lastmod>2013-06-27T09:35:53-06:00</lastmod>
+        <lastmod>2013-10-01T10:26:09-06:00</lastmod>
+    </url>
+    <url>
+        <loc>http://sgricci.github.com/2012/07/22/intro/</loc>
+        <lastmod>2013-10-01T10:26:09-06:00</lastmod>
+    </url>
+    <url>
+        <loc>http://sgricci.github.com/2012/07/22/the-problem-with-pingdom/</loc>
+        <lastmod>2013-10-01T10:26:09-06:00</lastmod>
     </url>
     <url>
         <loc>http://sgricci.github.com/2013/01/19/wfh-pro-tip-set-a-timer/</loc>
-        <lastmod>2013-06-27T09:35:53-06:00</lastmod>
+        <lastmod>2013-10-01T10:26:09-06:00</lastmod>
     </url>
     <url>
         <loc>http://sgricci.github.com/2013/01/26/recent-reads/</loc>
-        <lastmod>2013-06-27T09:35:53-06:00</lastmod>
+        <lastmod>2013-10-01T10:26:09-06:00</lastmod>
     </url>
     <url>
         <loc>http://sgricci.github.com/2013/01/27/patch-todo-dot-pl-to-show-an-id-on-create/</loc>
-        <lastmod>2013-06-27T09:35:53-06:00</lastmod>
+        <lastmod>2013-10-01T10:26:09-06:00</lastmod>
     </url>
     <url>
         <loc>http://sgricci.github.com/2013/02/10/now-open-source-dysnomia/</loc>
-        <lastmod>2013-06-27T09:35:53-06:00</lastmod>
+        <lastmod>2013-10-01T10:26:09-06:00</lastmod>
     </url>
     <url>
         <loc>http://sgricci.github.com/2013/03/24/my-experience-with-daskeyboard/</loc>
-        <lastmod>2013-06-27T09:35:53-06:00</lastmod>
+        <lastmod>2013-10-01T10:26:09-06:00</lastmod>
     </url>
     <url>
         <loc>http://sgricci.github.com/2013/06/27/now-open-source-dewdrop/</loc>
-        <lastmod>2013-06-27T11:02:05-06:00</lastmod>
+        <lastmod>2013-10-01T10:26:09-06:00</lastmod>
     </url>
     <url>
         <loc>http://sgricci.github.com/2013/07/07/new-dewdrop-icon/</loc>
-        <lastmod>2013-07-07T23:00:09-06:00</lastmod>
+        <lastmod>2013-10-01T10:26:09-06:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://sgricci.github.com/2013/07/15/protip-lowercase-incoming-usernames-slash-emails-when-developing-an-authentication-system/
+        </loc>
+        <lastmod>2013-10-01T10:26:09-06:00</lastmod>
     </url>
     <url>
         <loc>http://sgricci.github.com/robots.txt</loc>
         <lastmod>2013-01-06T22:11:07-07:00</lastmod>
     </url>
     <url>
+        <loc>http://sgricci.github.com/about/</loc>
+        <lastmod>2013-10-01T10:26:09-06:00</lastmod>
+    </url>
+    <url>
         <loc>http://sgricci.github.com/</loc>
-        <lastmod>2013-07-07T23:05:57-06:00</lastmod>
+        <lastmod>2013-10-01T10:26:09-06:00</lastmod>
     </url>
     <url>
         <loc>http://sgricci.github.com/blog/archives/</loc>
-        <lastmod>2013-07-07T23:00:09-06:00</lastmod>
+        <lastmod>2013-10-01T10:26:09-06:00</lastmod>
     </url>
     <url>
         <loc>http://sgricci.github.com/404.html</loc>
-        <lastmod>2013-06-27T09:31:25-06:00</lastmod>
+        <lastmod>2013-10-01T10:26:09-06:00</lastmod>
     </url>
     <url>
         <loc>http://sgricci.github.com/archives/</loc>
-        <lastmod>2013-07-07T23:00:09-06:00</lastmod>
+        <lastmod>2013-10-01T10:26:09-06:00</lastmod>
     </url>
 </urlset>
